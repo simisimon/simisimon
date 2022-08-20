@@ -1,1 +1,1 @@
-![Simisimon](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Simisimon](https://github-readme-stats.vercel.app/api?username=simisimon&show_icons=true&theme=dark)
